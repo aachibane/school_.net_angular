@@ -227,16 +227,6 @@ dotnet test
 - [ ] Internationalisation (i18n)
 - [ ] Mode sombre
 
-## 📝 Utilisation pour le CV
-
-Ce projet démontre :
-- ✅ Compétences Angular avancées (services, routing, HTTP, reactive forms)
-- ✅ Développement backend avec ASP.NET Core et C#
-- ✅ Conception d'API REST professionnelle
-- ✅ Intégration full-stack complète
-- ✅ Utilisation d'Entity Framework Core
-- ✅ Architecture moderne et scalable
-
 ## 🤝 Contribution
 
 Ce projet est principalement à des fins de démonstration de compétences. Les suggestions d'amélioration sont bienvenues via les issues GitHub.
@@ -244,19 +234,6 @@ Ce projet est principalement à des fins de démonstration de compétences. Les 
 ## 📄 License
 
 Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
-
-## 👨‍💻 Auteur
-
-**Akram Achibane**  
-Ingénieur Logiciel Full-Stack
-
-- 💼 LinkedIn : [linkedin.com/in/akram-achibane](https://linkedin.com/in/akram-achibane)
-- 🐱 GitHub : [github.com/aachibane](https://github.com/aachibane)
-- 📧 Email : [Disponible sur demande]
-
----
-
-## 🌟 Projets connexes
 
 Ce projet fait partie de mon portfolio technique qui inclut également :
 - Applications microservices avec .NET
